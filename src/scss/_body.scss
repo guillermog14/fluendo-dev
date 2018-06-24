@@ -1,0 +1,85 @@
+main {
+    @media (min-width: 992px) {
+        padding-top: 72px;
+    }
+}
+.spacing-block {
+    height: 50px;
+}
+hr {
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 1px solid $brand-primary;
+    margin: 1em 0;
+    padding: 0;
+}
+.bg-hero {
+    background-image: url('../img/hero-background.png');
+    background-repeat: no-repeat;
+    background-position: right;
+    background-attachment: scroll;
+    background-size: cover;
+    height: 85vh;
+    top: 100px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    > div {
+        color: white;
+        text-shadow: #3f3f3f 3px 5px 2px;
+        text-align: center;
+    }
+}
+.newsletter-container {
+    background-image: url('../img/newsletter-background.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: scroll;
+    background-size: cover;
+    padding: 30px 0;
+    width: 100%;
+    left: 0;
+    min-height: 250px;
+    .align-items-center {
+        margin: auto;
+    }
+}
+.longomatch {
+    background-image: url('../img/balls-background.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: scroll;
+    background-size: contain;
+    text-align: center;
+}
+.longomatch-icons {
+    h5 {
+        font-size: 0.8rem;
+        font-weight: bold;
+    }
+    p {
+        font-size: 0.9rem !important;
+    }
+}
+.multi {
+    background-color: $brand-primary;
+    color: white;
+    .container {
+        padding-top: 30px;
+        padding-top: 30px; 
+    }
+    p {
+        font-size: 0.9rem !important;
+    }
+    .icon-windows8, .icon-appleinc {
+        font-size: 45px;
+        text-align: center;
+        padding-left: 20px;
+        padding-right: 20p;
+    }
+} 
+.icon-sports-icons {
+    font-size: 45px;
+    text-align: center;
+}  

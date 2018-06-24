@@ -1,0 +1,28 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 104.12 104.18">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-3 {
+        fill: url(#linear-gradient);
+      }
+    </style>
+    <clipPath id="clip-path" transform="translate(-630.97 -333.24)">
+      <path class="cls-1" d="M679.34,358.64v6L683,365v3.89a25.91,25.91,0,0,0-2.62.57c-1.39.38-2.37.75-2.37.75a21.9,21.9,0,0,0-8.56,6.05L666.54,374l1-1.76-3.93-3a7.33,7.33,0,0,0-3.27,2.74c-2,2.81-1.72,3.78-1.72,3.78l3.94,3,1.46-1.4,3,2.31a21.91,21.91,0,0,0-2.95,11H658l9.49,12,9.51-12H670.7A15.38,15.38,0,1,1,674.65,401l-4.16,5.25a22,22,0,1,0,23.91-35.9,20.36,20.36,0,0,0-2.66-.86,17.07,17.07,0,0,0-2.63-.56V365l3.61-.32v-6A27.48,27.48,0,0,0,686,358a30.35,30.35,0,0,0-6.69.67"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" x1="35.2" y1="2960.86" x2="36.2" y2="2960.86" gradientTransform="matrix(0, -60.74, -60.74, 0, 180535.33, 2557.06)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#6e801c"/>
+      <stop offset="1" stop-color="#80845c"/>
+    </linearGradient>
+  </defs>
+  <title>icon-logomatch</title>
+  <g class="cls-2">
+    <rect class="cls-3" x="646.22" y="348.25" width="73.62" height="74.15" transform="translate(-717.86 201.19) rotate(-40.39)"/>
+  </g>
+</svg>

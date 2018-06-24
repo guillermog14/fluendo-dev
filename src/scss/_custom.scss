@@ -1,0 +1,20 @@
+.btn-outline-primary {
+    color: $brand-primary;
+    border-color: $brand-primary;
+    &:hover {
+        color: #fff;
+        background-color: $brand-primary;
+        border-color: $brand-primary;
+    }
+}
+
+.btn-primary {
+    color: #fff;
+    background-color: $brand-primary;
+    border-color: $brand-primary;
+}
+
+.btn-primary.disabled {
+    background-color: $primary-disable;
+    border-color: $primary-disable;
+}
