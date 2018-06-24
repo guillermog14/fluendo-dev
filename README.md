@@ -1,4 +1,3 @@
 # fluendo-dev
-Download repo
-To install all packages use:
+Download repo and install all packages use:
  npm install
